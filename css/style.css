@@ -187,3 +187,27 @@ header .menu .color-3:hover{
 .formulario .boton:hover{
     background: #1ba0ef;
 }
+/* FOOTER */
+.redes-sociales{
+    padding:40px 0;
+    margin-bottom: 40px;
+}
+.redes-sociales .fa{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    line-height: 100px;
+    color: #fff;
+    text-align: center;
+    background: #cbcbcb;
+    display: inline-block;
+    margin:0 20px;
+    text-decoration: none;
+    border-radius:100px;
+    transition: all .3s ease;
+}
+.redes-sociales .facebook{background: #3b5998}
+.redes-sociales .twitter{background: #0084b4}
+.redes-sociales .pinterest{background: #c92228}
+.redes-sociales .instagram{background: #fb3958}
+.redes-sociales .google-plus{background: #d34836}
